@@ -1,1 +1,0 @@
-web: gunicorn laraweb.wsgi --log-file -
