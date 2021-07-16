@@ -1,4 +1,10 @@
 .idea
 __pycache__
 
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
+
 
