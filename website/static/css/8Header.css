@@ -60,10 +60,12 @@ header{
 		padding-left: 0px;
 		text-align: center;
 		font-size: 22px;
+		transition: display 1s;
 	}
 
-		#left-m > li{
+	#left-m > li{
 		margin-top: 20px;
+		margin-bottom: 20px;
 	}
 
 	#logo-m{
