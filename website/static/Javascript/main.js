@@ -557,7 +557,7 @@ function me3 (){
   }
 }
 
-
+/*
 VanillaTilt.init(document.querySelector(".Slide"),{
     max: 25,
     speed: 400,
@@ -623,5 +623,6 @@ VanillaTilt.init(document.querySelector("#item-3"),{
     max: 25,
     speed: 400
 });
+*/
 
 

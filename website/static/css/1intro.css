@@ -11,7 +11,7 @@ body{
         background-image: url(laraback2.gif);
         background-size: cover;
         background-repeat: repeat;
-        background-attachment: fixed;
+        background-attachment: scroll;
         font-size: 20px;
     }
 
@@ -366,6 +366,7 @@ body{
         justify-self: center;
         margin-top: 0px;
         margin-bottom: 30px;
+        margin-right: 60px;
     }
     #intro2{
         width: 60vw;
@@ -380,6 +381,14 @@ body{
         margin-left: 50px;
         margin-right: 50px;
         margin-bottom: 2px;
+    }
+
+        #intro2:hover{
+        border-top: 1vw solid #fc3468;
+        border-right: 1vw solid #fc3468;
+        border-bottom: 1vw solid #fc3468;
+        border-left: 1vw solid #fc3468;
+        transition: border-top 3s linear, border-right 1ss linear 0.15s, border-bottom 1ss linear 1s, border-left 1s linear 0.15s;
     }
 }
 
