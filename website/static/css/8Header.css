@@ -59,6 +59,11 @@ header{
 		margin: 0px;
 		padding-left: 0px;
 		text-align: center;
+		font-size: 22px;
+	}
+
+		#left-m > li{
+		margin-top: 20px;
 	}
 
 	#logo-m{
@@ -130,6 +135,10 @@ header{
 		margin: 0px;
 		padding-left: 0px;
 		text-align: center;
+		font-size: 22px;
+	}
+	#left-m > li{
+		margin-top: 20px;
 	}
 
 	#logo-m{
